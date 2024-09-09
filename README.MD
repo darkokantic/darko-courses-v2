@@ -12,3 +12,4 @@ CREDENTIALS_BASE64=some_string_here
 
 Hello from Darko
 commit 2
+commit 3
